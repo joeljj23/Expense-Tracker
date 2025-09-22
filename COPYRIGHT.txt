@@ -1,138 +1,204 @@
 ================================================================================
-                    🔒 COPYRIGHT AND LICENSE AGREEMENT 🔒
-                           EXPENSE TRACKER V1.0
+                          🎉 OPEN SOURCE SOFTWARE LICENSE
+                               MIT LICENSE
 ================================================================================
 
-🎯 DEVELOPED BY: SA3DWY
+🎯 PROJECT: Expense Tracker V1.0
+👨‍💻 DEVELOPER: SA3DWY
 📅 COPYRIGHT YEAR: 2025
 ⚡ VERSION: V1.0
-🏷️ PRODUCT TYPE: Desktop Financial Application
+🏷️ LICENSE TYPE: MIT License (Open Source)
 
 ================================================================================
-                          🛡️ INTELLECTUAL PROPERTY RIGHTS
+                            � MIT LICENSE AGREEMENT
 ================================================================================
 
-🚨 IMPORTANT NOTICE:
-This software application "Expense Tracker" and ALL associated materials are 
-the EXCLUSIVE intellectual property of SA3DWY. This includes but is not limited to:
+Copyright (c) 2025 SA3DWY
 
-🔐 Source Code & Algorithms
-🎨 User Interface Design  
-📊 Data Processing Logic
-📱 Application Architecture
-📋 Documentation & Guides
-🎯 Branding & Visual Elements
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-⚖️ LEGAL PROTECTION:
-Copyright (c) 2025 SA3DWY. All rights reserved.
-Unauthorized use, reproduction, or distribution is strictly prohibited.
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
-================================================================================
-                        ⚖️ PROPRIETARY SOFTWARE LICENSE
-================================================================================
-
-🎯 LICENSE TYPE: Proprietary Commercial License
-🔒 RESTRICTION LEVEL: High Security Protection
-📋 AGREEMENT STATUS: Legally Binding
-
-🔑 WHAT YOU CAN DO:
-✅ Use the executable file for personal financial management
-✅ Generate and share reports for personal use
-✅ Install on your personal computer
-✅ Create backups of the executable file
-
-🚫 WHAT YOU CANNOT DO:
-❌ Reverse engineer, decompile, or disassemble the software
-❌ Create derivative works or modifications
-❌ Distribute, sell, or sublicense to others
-❌ Use for commercial purposes without explicit permission
-❌ Copy or reproduce the source code
-❌ Remove or alter copyright notices
-❌ Claim ownership of the intellectual property
-
-⚡ SPECIAL DISTRIBUTION RIGHTS:
-🎯 ONLY the executable file "Expense Tracker.exe" may be shared
-🔐 Source code remains CONFIDENTIAL and PROPRIETARY
-🛡️ No reverse engineering attempts are permitted
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
 
 ================================================================================
-                            🏆 TRADEMARK PROTECTION
+                          🌟 OPEN SOURCE FREEDOM
 ================================================================================
 
-🏷️ PROTECTED TRADEMARKS:
-• "Expense Tracker" - Official Product Name
-• "SA3DWY" - Developer Brand Identity  
-• All logos, icons, and visual designs
-• User interface elements and layouts
+🎉 WHAT YOU CAN DO (NO RESTRICTIONS):
+✅ Use the software for any purpose (personal, commercial, educational)
+✅ Modify and customize the source code
+✅ Distribute copies of the original software
+✅ Distribute modified versions
+✅ Create derivative works
+✅ Sell copies or include in commercial products
+✅ Use in proprietary projects
+✅ Fork the repository and create your own version
 
-⚖️ TRADEMARK NOTICE:
-All trademarks are the exclusive property of SA3DWY and are protected under 
-international trademark laws. Unauthorized use is strictly prohibited.
+🔄 WHAT WE ASK (SIMPLE REQUIREMENTS):
+📋 Include the copyright notice in all copies
+📋 Include this license in all copies
+📋 Credit SA3DWY as the original author
 
-================================================================================
-                          ⚠️ WARRANTY AND LIABILITY DISCLAIMER
-================================================================================
-
-🚨 NO WARRANTY PROVIDED:
-This software is provided "AS IS" without any warranties, express or implied.
-SA3DWY makes NO GUARANTEES about:
-• Software performance or reliability
-• Compatibility with your system
-• Accuracy of calculations or reports
-• Data integrity or security
-
-⚖️ LIMITATION OF LIABILITY:
-SA3DWY SHALL NOT BE LIABLE for any damages including:
-• Lost profits or revenue
-• Data loss or corruption  
-• System failures or crashes
-• Indirect or consequential damages
-• Business interruption costs
-
-🛡️ USER RESPONSIBILITY:
-You use this software at your own risk and are responsible for:
-• Backing up your financial data
-• Verifying calculation accuracy
-• System compatibility testing
-• Regular software maintenance
+🚀 NO OTHER RESTRICTIONS!
+- No payment required
+- No approval needed
+- No registration necessary
+- No usage limits
 
 ================================================================================
-                            🔚 TERMINATION CONDITIONS
+                          🤝 CONTRIBUTING TO THE PROJECT
 ================================================================================
 
-⏰ LICENSE TERMINATION:
-This license remains valid until terminated. SA3DWY may terminate this license if:
-• You violate any terms of this agreement
-• You attempt unauthorized modifications
-• You distribute the software improperly
-• You engage in prohibited activities
+� WE WELCOME CONTRIBUTIONS!
+This is an open source project and we encourage community participation:
 
-💀 UPON TERMINATION:
-• Immediately cease all use of the software
-• Delete all copies from your systems
-• Destroy any backup copies created
-• Return or destroy all related materials
+� WAYS TO CONTRIBUTE:
+✅ Report bugs and issues
+✅ Suggest new features
+✅ Submit code improvements
+✅ Write documentation
+✅ Create tutorials
+✅ Share usage examples
+✅ Translate to other languages
+✅ Improve user interface
+
+🚀 HOW TO CONTRIBUTE:
+1. Fork the repository
+2. Create a feature branch
+3. Make your changes
+4. Test thoroughly
+5. Submit a pull request
+6. Engage in code review
+
+� CONTRIBUTION GUIDELINES:
+- Follow existing code style
+- Add comments for new features
+- Include tests where applicable
+- Update documentation as needed
+- Be respectful in discussions
+
+================================================================================
+                            🌍 COMMUNITY & SUPPORT
+================================================================================
+
+🏠 PROJECT HOME: https://github.com/[username]/Expense-Tracker
+👥 COMMUNITY: Join our discussions and help make this project better!
+📧 CONTACT: Reach out to SA3DWY for major changes or questions
+🐛 ISSUES: Report bugs via GitHub Issues
+💡 FEATURES: Request features via GitHub Discussions
+
+🎯 VISION: Building the best open source personal finance tool together!
+
+================================================================================
+                              📚 ADDITIONAL RESOURCES
+================================================================================
+
+📖 DOCUMENTATION: Check README.md for complete usage guide
+� DEVELOPMENT: See contribution guidelines in CONTRIBUTING.md
+🏷️ RELEASES: Download latest versions from GitHub Releases
+📊 ROADMAP: View planned features in project roadmap
+🎉 CHANGELOG: Track all changes in CHANGELOG.md
+
+================================================================================
+                               � THANK YOU!
+================================================================================
+
+Thank you for choosing Expense Tracker and for supporting open source software!
+
+🌟 If this project helps you, please consider:
+- ⭐ Starring the repository
+- 🔄 Sharing with friends and colleagues  
+- 💬 Providing feedback and suggestions
+- 🤝 Contributing code or documentation
+- 📝 Writing reviews or blog posts
+
+Together, we can make personal finance management accessible to everyone! 💰
+
+================================================================================
+Document Version: 2.0 (Open Source)
+Document Date: September 22, 2025
+Last Updated: September 22, 2025
+License Type: MIT License
+================================================================================
+
+================================================================================
+                              ⚠️ DISCLAIMER
+================================================================================
+
+🚨 NO WARRANTY:
+This open source software is provided "AS IS" without any warranties.
+The authors and contributors are not liable for any damages or issues
+that may arise from using this software.
+
+💼 USER RESPONSIBILITY:
+- Verify calculations independently for critical financial decisions
+- Backup your important financial data regularly
+- Use the software at your own risk and discretion
+
+🛡️ BEST PRACTICES:
+- Always double-check financial calculations
+- Keep backups of important expense reports
+- Test the software with small amounts first
+- Report any bugs or issues to help improve the project
 
 ================================================================================
                              📞 CONTACT INFORMATION
 ================================================================================
 
-🏢 DEVELOPER: SA3DWY
-📧 EMAIL: [Developer Contact Email]
-🌐 WEBSITE: [Official Developer Website]
-📱 SOCIAL: [Social Media Links]
+🏢 ORIGINAL DEVELOPER: SA3DWY
+📧 PROJECT EMAIL: [Contact Email for Project]
+🌐 PROJECT WEBSITE: https://github.com/[username]/Expense-Tracker
+💼 DEVELOPER PORTFOLIO: [SA3DWY Portfolio]
 
-💼 FOR BUSINESS INQUIRIES:
-• Licensing questions
-• Technical support requests
-• Legal matter discussions
-• Partnership opportunities
+� FOR OPEN SOURCE COMMUNITY:
+• 🐛 Bug Reports: Use GitHub Issues
+• 💡 Feature Requests: Use GitHub Discussions  
+• 🤝 Contributions: Submit Pull Requests
+• 📧 General Questions: Contact maintainers
+• 💬 Community Chat: [Discord/Slack if available]
 
-🚀 FOR USERS:
-• Bug reports and feedback
-• Feature suggestions
-• General support questions
-• Community discussions
+================================================================================
+                               🎯 FINAL NOTES
+================================================================================
+
+🎉 WELCOME TO OPEN SOURCE!
+By making this project open source, we believe in:
+- 🌍 Global collaboration and knowledge sharing
+- 🚀 Faster innovation through community contributions
+- 📚 Educational value for learning developers
+- 🔒 Transparency and trust in financial software
+- 💡 Creative solutions from diverse perspectives
+
+🤝 JOIN THE MOVEMENT:
+Help us build the best personal finance tool for everyone!
+
+⭐ Star the repo → 🔄 Fork it → 💻 Improve it → 🎉 Share it!
+
+================================================================================
+                              🏁 END OF LICENSE
+================================================================================
+
+Thank you for being part of the open source community! 🌟
+
+🎯 Remember: With great code comes great responsibility. 
+Use this software wisely and help others do the same!
+
+Happy coding and happy budgeting! 💰✨
+
+================================================================================
 
 ================================================================================
                               🌍 GOVERNING LAW & JURISDICTION
