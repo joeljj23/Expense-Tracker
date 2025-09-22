@@ -1,0 +1,204 @@
+================================================================================
+                    🔒 COPYRIGHT AND LICENSE AGREEMENT 🔒
+                           EXPENSE TRACKER V1.0
+================================================================================
+
+🎯 DEVELOPED BY: SA3DWY
+📅 COPYRIGHT YEAR: 2025
+⚡ VERSION: V1.0
+🏷️ PRODUCT TYPE: Desktop Financial Application
+
+================================================================================
+                          🛡️ INTELLECTUAL PROPERTY RIGHTS
+================================================================================
+
+🚨 IMPORTANT NOTICE:
+This software application "Expense Tracker" and ALL associated materials are 
+the EXCLUSIVE intellectual property of SA3DWY. This includes but is not limited to:
+
+🔐 Source Code & Algorithms
+🎨 User Interface Design  
+📊 Data Processing Logic
+📱 Application Architecture
+📋 Documentation & Guides
+🎯 Branding & Visual Elements
+
+⚖️ LEGAL PROTECTION:
+Copyright (c) 2025 SA3DWY. All rights reserved.
+Unauthorized use, reproduction, or distribution is strictly prohibited.
+
+================================================================================
+                        ⚖️ PROPRIETARY SOFTWARE LICENSE
+================================================================================
+
+🎯 LICENSE TYPE: Proprietary Commercial License
+🔒 RESTRICTION LEVEL: High Security Protection
+📋 AGREEMENT STATUS: Legally Binding
+
+🔑 WHAT YOU CAN DO:
+✅ Use the executable file for personal financial management
+✅ Generate and share reports for personal use
+✅ Install on your personal computer
+✅ Create backups of the executable file
+
+🚫 WHAT YOU CANNOT DO:
+❌ Reverse engineer, decompile, or disassemble the software
+❌ Create derivative works or modifications
+❌ Distribute, sell, or sublicense to others
+❌ Use for commercial purposes without explicit permission
+❌ Copy or reproduce the source code
+❌ Remove or alter copyright notices
+❌ Claim ownership of the intellectual property
+
+⚡ SPECIAL DISTRIBUTION RIGHTS:
+🎯 ONLY the executable file "Expense Tracker.exe" may be shared
+🔐 Source code remains CONFIDENTIAL and PROPRIETARY
+🛡️ No reverse engineering attempts are permitted
+
+================================================================================
+                            🏆 TRADEMARK PROTECTION
+================================================================================
+
+🏷️ PROTECTED TRADEMARKS:
+• "Expense Tracker" - Official Product Name
+• "SA3DWY" - Developer Brand Identity  
+• All logos, icons, and visual designs
+• User interface elements and layouts
+
+⚖️ TRADEMARK NOTICE:
+All trademarks are the exclusive property of SA3DWY and are protected under 
+international trademark laws. Unauthorized use is strictly prohibited.
+
+================================================================================
+                          ⚠️ WARRANTY AND LIABILITY DISCLAIMER
+================================================================================
+
+🚨 NO WARRANTY PROVIDED:
+This software is provided "AS IS" without any warranties, express or implied.
+SA3DWY makes NO GUARANTEES about:
+• Software performance or reliability
+• Compatibility with your system
+• Accuracy of calculations or reports
+• Data integrity or security
+
+⚖️ LIMITATION OF LIABILITY:
+SA3DWY SHALL NOT BE LIABLE for any damages including:
+• Lost profits or revenue
+• Data loss or corruption  
+• System failures or crashes
+• Indirect or consequential damages
+• Business interruption costs
+
+🛡️ USER RESPONSIBILITY:
+You use this software at your own risk and are responsible for:
+• Backing up your financial data
+• Verifying calculation accuracy
+• System compatibility testing
+• Regular software maintenance
+
+================================================================================
+                            🔚 TERMINATION CONDITIONS
+================================================================================
+
+⏰ LICENSE TERMINATION:
+This license remains valid until terminated. SA3DWY may terminate this license if:
+• You violate any terms of this agreement
+• You attempt unauthorized modifications
+• You distribute the software improperly
+• You engage in prohibited activities
+
+💀 UPON TERMINATION:
+• Immediately cease all use of the software
+• Delete all copies from your systems
+• Destroy any backup copies created
+• Return or destroy all related materials
+
+================================================================================
+                             📞 CONTACT INFORMATION
+================================================================================
+
+🏢 DEVELOPER: SA3DWY
+📧 EMAIL: [Developer Contact Email]
+🌐 WEBSITE: [Official Developer Website]
+📱 SOCIAL: [Social Media Links]
+
+💼 FOR BUSINESS INQUIRIES:
+• Licensing questions
+• Technical support requests
+• Legal matter discussions
+• Partnership opportunities
+
+🚀 FOR USERS:
+• Bug reports and feedback
+• Feature suggestions
+• General support questions
+• Community discussions
+
+================================================================================
+                              🌍 GOVERNING LAW & JURISDICTION
+================================================================================
+
+⚖️ LEGAL FRAMEWORK:
+This agreement is governed by applicable international software licensing laws
+and the jurisdiction where SA3DWY operates. Any legal disputes will be resolved
+through appropriate legal channels in the developer's jurisdiction.
+
+🏛️ DISPUTE RESOLUTION:
+• Initial resolution through direct communication
+• Mediation for complex disagreements  
+• Legal proceedings as last resort
+• Jurisdiction as determined by SA3DWY location
+
+================================================================================
+                               📜 COMPLETE AGREEMENT
+================================================================================
+
+🎯 ENTIRE AGREEMENT:
+This document represents the COMPLETE and FINAL agreement between you and SA3DWY
+regarding the Expense Tracker software. This agreement:
+
+• Supersedes all previous agreements or understandings
+• Cannot be modified without written consent from SA3DWY
+• Remains binding regardless of future software updates
+• Takes precedence over any conflicting documentation
+
+================================================================================
+                              ✅ ACCEPTANCE CONFIRMATION
+================================================================================
+
+🔐 BY USING THIS SOFTWARE, YOU EXPLICITLY ACKNOWLEDGE:
+
+✅ You have READ and UNDERSTOOD this entire license agreement
+✅ You AGREE to be legally bound by all terms and conditions
+✅ You will COMPLY with all usage restrictions and requirements
+✅ You accept all risks associated with software use
+✅ You understand the consequences of license violation
+
+🚨 IF YOU DO NOT AGREE with any part of this license, you must:
+❌ Immediately stop using the software
+❌ Delete all copies from your systems  
+❌ Refrain from any further distribution
+
+================================================================================
+                                📅 DOCUMENT METADATA
+================================================================================
+
+📋 Document Title: Copyright and License Agreement
+🏷️ Product: Expense Tracker V1.0
+👨‍💻 Developer: SA3DWY  
+📅 Creation Date: September 22, 2025
+🔄 Last Updated: September 22, 2025
+📄 Document Version: 1.0
+⚖️ Legal Status: Binding Agreement
+
+================================================================================
+                              🔒 END OF AGREEMENT
+================================================================================
+
+Thank you for choosing Expense Tracker V1.0 by SA3DWY!
+For the best experience, please ensure you comply with all license terms.
+
+🎯 Remember: This software is designed to help you manage your finances better.
+Use it responsibly and enjoy the benefits of organized expense tracking!
+
+================================================================================
